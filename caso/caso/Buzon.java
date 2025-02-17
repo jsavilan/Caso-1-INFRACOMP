@@ -26,8 +26,8 @@ public class Buzon {
         notifyAll();
         return producto;
     }
-    
-    public synchronized String retirarNoBloqueante() {
+
+    public synchronized String retirarSemi() {
         return productos.poll();
     }
 
