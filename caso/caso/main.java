@@ -1,6 +1,6 @@
 package caso;
 
-public class main {
+public class Main {
     public static void main (String[] args) {
         int numOperarios = 3;
         int numProductos = 20;

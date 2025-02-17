@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "caso.Main",
+            "projectName": "Caso-1-INFRACOMP_4b009811"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "caso.main",
